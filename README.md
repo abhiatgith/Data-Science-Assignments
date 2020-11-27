@@ -1,4 +1,3 @@
-# ineuron-Assignments
-Data Science Masters Course Assignments
+# Data Science Assignments
 
-SF_Salaries_Exercise1_Abhilash.ipynb - Pandas exercise
+This repository contains jupyter notebooks that have some basic assignments or programs or code snippets for some basic tasks in Python programming language, Pandas and Numpy libraries.
